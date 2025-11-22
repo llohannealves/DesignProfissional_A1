@@ -18,4 +18,6 @@ Praticar a construção de programas com estruturas de repetição e decisão, o
 ## ▶️ Como executar
 1. Copie o código para um arquivo chamado `main.c`
 2. Compile usando:
+3. Execute:
+
 
