@@ -15,9 +15,5 @@ Criei um menu interativo onde o usuário pode escolher diferentes funcionalidade
 ## 🎯 Objetivo
 Praticar a construção de programas com estruturas de repetição e decisão, organizando o código de forma clara e funcional.
 
-## ▶️ Como executar
-1. Copie o código para um arquivo chamado `main.c`
-2. Compile usando:
-3. Execute:
 
 
