@@ -17,7 +17,6 @@ Representação gráfica do modelo conceitual, incluindo:
 - Cardinalidades  
 - Chaves primárias e estrangeiras  
 
-O arquivo está disponível na pasta `/diagramas`.
 
 ---
 
@@ -50,5 +49,3 @@ O modelo foi analisado segundo as três formas normais:
 - **3FN:** eliminação de dependências transitivas  
 
 ---
-
-## 📂 Estrutura do Repositório
