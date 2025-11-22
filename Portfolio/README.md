@@ -9,7 +9,7 @@ Hoje, utilizo este espaço para apresentar minhas habilidades técnicas, minha e
 ## 🚀 Projetos Incluídos
 
 ### 🔹 1. SITE DE ACADEMIA - TECHFIT
-- **Descrição:**Um projeto simples desenvolvido para praticar HTML, CSS e JavaScript.  
+- **Descrição:** Um projeto simples desenvolvido para praticar HTML, CSS e JavaScript.  
 Aqui eu aplico meus primeiros aprendizados em estruturação de página, estilização e pequenas interações com JavaScript.
 - **Tecnologias:** JavaScript | CSS3 | HTML5
 - **Objetivo:** Treinar a construção de uma página web completa, desde a marcação até o estilo e comportamento.
