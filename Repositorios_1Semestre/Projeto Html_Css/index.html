@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evento Tech 2025</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Cabeçalho com menu de navegação -->
+    <header>
+        <h1>Evento Tech 2025</h1>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#agenda">Agenda</a></li>
+                <li><a href="#palestrantes">Palestrantes</a></li>
+                <li><a href="#inscricao">Inscrição</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Seção Sobre -->
+        <section id="sobre">
+            <h2>Sobre o Evento</h2>
+            <p>O Evento Tech 2025 reúne profissionais de tecnologia de todo o país para workshops, palestras e networking.</p>
+            <p>Data: 15 de novembro de 2025 | Horário: 09h às 18h | Local: Centro de Convenções Ulysses Guimarães</p>
+        </section>
+
+        <!-- Seção Agenda -->
+        <section id="agenda">
+            <h2>Agenda</h2>
+            <table>
+                <tr>
+                    <th>Horário</th>
+                    <th>Atividade</th>
+                </tr>
+                <tr class="palestra">
+                    <td>09:00 - 10:00</td>
+                    <td>Palestra de Abertura</td>
+                </tr>
+                <tr class="intervalo">
+                    <td>10:00 - 10:30</td>
+                    <td>Coffee Break</td>
+                </tr>
+                <tr class="workshop">
+                    <td>10:30 - 12:00</td>
+                    <td>Workshop de Desenvolvimento Web</td>
+                </tr>
+            </table>
+        </section>
+
+        <!-- Seção Palestrantes -->
+        <section id="palestrantes">
+            <h2>Palestrantes</h2>
+            <div class="cards">
+                <div class="card">
+                    <img src="imagens/palestrante1.jpg" alt="Palestrante 1">
+                    <h3>Maria Silva</h3>
+                    <p>Especialista em Front-end e UX Design.</p>
+                </div>
+                <div class="card">
+                    <img src="imagens/palestrante2.jpg" alt="Palestrante 2">
+                    <h3>João Pereira</h3>
+                    <p>Engenheiro de Software e palestrante internacional.</p>
+                </div>
+                <div class="card">
+                    <img src="imagens/palestrante3.jpg" alt="Palestrante 3">
+                    <h3>Carla Souza</h3>
+                    <p>Consultora em Transformação Digital.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Seção Inscrição -->
+        <section id="inscricao">
+            <h2>Inscrição</h2>
+            <form action="#" method="post">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" required>
+
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="telefone">Telefone:</label>
+                <input type="tel" id="telefone" name="telefone" required>
+
+                <label for="mensagem">Mensagem:</label>
+                <textarea id="mensagem" name="mensagem" required></textarea>
+
+                <button type="submit">Enviar Inscrição</button>
+            </form>
+        </section>
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>Contato: contato@eventotech2025.com | Telefone: (61) 99999-9999</p>
+        <p>
+            <a href="#">Facebook</a> | 
+            <a href="#">Instagram</a> | 
+            <a href="#">LinkedIn</a>
+        </p>
+    </footer>
+</body>
+</html>
