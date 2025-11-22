@@ -1,7 +1,7 @@
 # 🗂 Projeto: O Arquivo Secreto – Decisões em TI
 
 ## 📁 Case Analisado
-**Arquivo Escolhido:** Arquivo 1 – * A Decisão questionável*  
+**Arquivo Escolhido:** Arquivo 1 – *A Decisão questionável*  
 **Case Real:** Discriminação de gênero no Apple Card
 
 ---
