@@ -40,5 +40,5 @@ Este espaço também demonstra minha evolução prática e teórica na área de 
 ## 👩‍💻 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, dedicada, disciplinada e sempre buscando aprender mais.  
-Gosto de transformar ideias em soluções práticas e estou desenvolvendo minhas habilidades para atuar na área de TI com responsabilidade e criatividade e profissionalismo na área de TI.
+Gosto de transformar ideias em soluções práticas e estou desenvolvendo minhas habilidades para atuar na área de TI com responsabilidade, criatividade e profissionalismo na área de TI.
 
