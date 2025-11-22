@@ -39,7 +39,7 @@ Este espaço também demonstra minha evolução prática e teórica na área de 
 
 ## 👩‍💻 Sobre mim
 
-Estou concluindo o curso de **Análise e Desenvolvimento de Sistemas** e, ao longo dessa jornada, construí uma base sólida em lógica, programação, banco de dados e desenvolvimento web.  
-Sou dedicada, comprometida e tenho interesse em transformar ideias em soluções reais por meio da tecnologia.  
-Busco sempre aprender, me atualizar e melhorar minhas habilidades para atuar com responsabilidade e profissionalismo na área de TI.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, dedicada, disciplinada e sempre buscando aprender mais.  
+Gosto de transformar ideias em soluções práticas e estou desenvolvendo minhas habilidades para atuar na área de TI com responsabilidade e criatividade.
+ofissionalismo na área de TI.
 
