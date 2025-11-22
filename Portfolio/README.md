@@ -8,14 +8,15 @@ Hoje, utilizo este espaço para apresentar minhas habilidades técnicas, minha e
 
 ## 🚀 Projetos Incluídos
 
-### 🔹 1. Nome do Projeto (exemplo: Sistema de Cadastro de Alunos)
-- **Descrição:** Sistema desenvolvido para praticar lógica de programação e manipulação de dados.
-- **Tecnologias:** JavaScript / Python / HTML / SQL (ajuste de acordo com o projeto real)
-- **Objetivo:** Aplicar conceitos essenciais de programação e organização de código.
-- **Status:** Concluído / Em desenvolvimento
+### 🔹 1. SITE DE ACADEMIA - TECHFIT
+- **Descrição:**Um projeto simples desenvolvido para praticar HTML, CSS e JavaScript.  
+Aqui eu aplico meus primeiros aprendizados em estruturação de página, estilização e pequenas interações com JavaScript.
+- **Tecnologias:** JavaScript | CSS3 | HTML5
+- **Objetivo:** Treinar a construção de uma página web completa, desde a marcação até o estilo e comportamento.
+- **Status:** Concluído
 
 > Link para o projeto:  
-➡️ https://github.com/SEU_USUARIO/NOME_DO_PROJETO
+➡️ https://github.com/llohannealves/Projeto_HTML_CSS_JS
 
 ---
 
