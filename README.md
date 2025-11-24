@@ -4,7 +4,7 @@ Este repositório reúne todos os materiais solicitados na Atividade A1 da disci
 
 ## 📄 O que você encontra aqui
 
-- **Curriculo_Latex.pdf** — Meu currículo atualizado feito em LaTeX.  
+- **Curriculo_Lattes.pdf** — Meu currículo atualizado feito em LaTeX.  
 - **Certificado_Evento.pdf** — Certificado de participação em um evento acadêmico/profissional.  
 - **Relato_Processo_Seletivo.pdf** — Relato da minha participação em um processo seletivo.
 - **Portfolio/** — Pasta onde organizei meus trabalhos e materiais que fazem parte do meu portfólio.  
